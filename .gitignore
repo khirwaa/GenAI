@@ -1,0 +1,7 @@
+venv
+venv/Lib/site-packages/coloredlogs.pth
+HomeMatch/chroma_db/chroma.sqlite3
+HomeMatch/chroma_db/d4716516-0700-40bc-bc2c-1febef612d79/data_level0.bin
+HomeMatch/chroma_db/d4716516-0700-40bc-bc2c-1febef612d79/header.bin
+HomeMatch/chroma_db/d4716516-0700-40bc-bc2c-1febef612d79/length.bin
+HomeMatch/chroma_db/d4716516-0700-40bc-bc2c-1febef612d79/link_lists.bin
